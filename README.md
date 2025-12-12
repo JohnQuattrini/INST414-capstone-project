@@ -14,3 +14,7 @@ Cross-validation to assess generalization
 Feature importance analysis and visualizations
 
 Error analysis and discussion of limitations
+
+
+the data set can be found at https://ffiec.cfpb.gov/data-publication/snapshot-national-loan-level-dataset/2024
+it is large file Total rows in dataset: 12,229,298 columns: 99
